@@ -1,0 +1,23 @@
+# Node.js / React-related
+node_modules/
+frontend/build/
+frontend/.env
+
+# Python-related
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+backend/.env
+
+# Dataset and large files
+data/*.txt
+data/*.csv
+
+# Logs
+*.log
+
+# IDE config files (optional, based on your editor)
+.vscode/
+.idea/
